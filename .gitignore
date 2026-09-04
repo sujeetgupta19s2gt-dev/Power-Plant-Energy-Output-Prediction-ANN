@@ -1,0 +1,7 @@
+# Ignore dataset file
+powerplant_data.csv
+
+# Ignore standard Python / Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.csv

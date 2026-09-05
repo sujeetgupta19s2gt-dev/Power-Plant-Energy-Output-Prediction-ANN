@@ -1,5 +1,6 @@
-torch
-pandas
-numpy
+streamlit
+tensorflow
 scikit-learn
-matplotlib
+joblib
+numpy
+pandas
